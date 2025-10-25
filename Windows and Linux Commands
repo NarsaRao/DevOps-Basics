@@ -1,0 +1,37 @@
+--- The idea of the Terminal Emulator is a program(App) that enables us to use terminal in a graphical environment
+---To create the OS of your computer basically without graphical interaction
+---shell is a CLI that takes command and converts and says to OS what to do
+---ls in linux used to list directories and dir in windows
+||| when a  command is typed then that command is applicable to present directory
+---where command for searching for a particulat fiel
+Ex:--dir *.docx /s lists down all the doc files in the curent directory and \s is subfolders which searche recursively
+--- start commmand for opening  a file in the path that si currently on
+\\\Environmnet Variables-Names values that used to change how processes and command are executed
+EX:--example for the environment varibale echo %path% is a command to show the path presnts hence if any comman d is executing it sees if there is any searching file in teh path then only it executes
+---pwd in linux prints present working directory not default in windows cd
+
+in windows----dir /a-all files
+          ----dir /a:h hidden files
+           ----dir /a:s system files in linux as ls a 
+          --- dir /s -all subfolders and fodler srecursively
+ in linux ls -R
+in windows start documents or folder name to open but in liux open
+. means current ..means previous directoy
+ ex-:  cd ../public means goes to previous directory haing public folder
+
+Cat command stand for concatenate simple in linux where as in window it is type
+  ---cat file.text // type file.txt
+ombine files	cat f1 f2 > f3    	type f1 f2 > f3	
+Append text	cat >> file.txt	     echo text >> file.txt	A
+Number lines	cat -n file.txt
+
+
+Man comamnd in linux used to know manual documentation of a command 
+man==help in windpows
+
+
+
+
+
+
+
