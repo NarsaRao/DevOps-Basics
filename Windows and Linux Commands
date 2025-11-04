@@ -28,6 +28,26 @@ Number lines	cat -n file.txt
 
 Man comamnd in linux used to know manual documentation of a command 
 man==help in windpows
+---------------------------------------------------------------------------------------------
+Demystyfying the command line
+whats is command line: a user interface also called CLI that allows to utilise the fucntions of our os
+works by means of typing  command instead of graphical user interface
+because of some advantages over gui such as 1.file mgmt,2.control dev environment
+3.automative repetative tasks
+???file tree,create an ddlete,write and read
+----create file-type nul>exmpla.txt --appemd type adding txt>>exaple.txr
+
+----del file -del exkkple.txt
+---cret edirectoory-mkdir ndnke
+---dlete a direcory--rmdir name for empty
+  and rmdir /s name for all subfolders
+
+----write to files-echo this is a text line>example.txt
+---and apend exho adding>> exmpale.txt
+--reda using type ex.txt
+---
+
+
 
 
 
